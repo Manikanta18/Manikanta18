@@ -8,7 +8,7 @@ Hi I'm [Manikanta18](https://www.linkedin.com/in/manikantajalla/), I like to wor
 Here are some ideas to get you started:
 
 - 🗼 Living in **Mississauga, Canada
-- 👨‍💻 Currently Working as Freelancer at Global ERP
+- 👨‍💻 Currently Working as Full-stack Developer at Global ERP
 - ✈️ Open to Remote Job Opportunities 🍻
 
 <br/>
